@@ -1,0 +1,3 @@
+module MyComponents
+MyButton 1.0 MyButton.qml
+MySlider 1.0 MySlider.qml
