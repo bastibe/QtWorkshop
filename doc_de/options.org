@@ -1,0 +1,11 @@
+#+OPTIONS: toc:nil author:nil timestamp:nil
+#+LANGUAGE: de_DE
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[ngerman]{babel}
+#+LATEX_HEADER: \usepackage{berasans}
+#+LATEX_HEADER: \renewcommand*\familydefault{\sfdefault}
+#+LATEX_HEADER: \usepackage{geometry}
+#+LATEX_HEADER: \usepackage{enumerate}
+#+LATEX_HEADER: \geometry{a4paper,left=30mm,right=30mm, top=35mm, bottom=35mm}
+#+LATEX_HEADER: \hypersetup{ colorlinks=true, urlcolor=blue }
