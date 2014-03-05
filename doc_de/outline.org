@@ -497,9 +497,9 @@ Eine etwas kompliziertere Control ist ein Slider, mit Property ~value~, ~minimum
 Anstatt wie beim Button lediglich Rechtecke zu benutzen, sollten diesmal Grafiken verwendet werden. Dafür habe ich zwei (wunderschöne) Grafiken vorbereitet, eine für das Slider-Handle und eine für den Hintergrund.
 
 #+ATTR_LATEX: :width 24px
-[[file:groove.png]]
+[[file:images/groove.png]]
 #+ATTR_LATEX: :width 16px
-[[file:handle.png]]
+[[file:images/handle.png]]
 
 Um Grafiken zu zeichnen, werden in QML Image Controls benutzt. Da das Control selbst höher ist als die Groove und breiter als das Handle, muss es als eigenes Control gebaut werden. Ein einfaches, durchsichtiges Control ist das Item.
 

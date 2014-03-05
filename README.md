@@ -3,7 +3,7 @@ Qt Workshop
 
 These are the example projects for a workshop given on Qt/QML in the Jade Hochschule (University of Applied Sciences in Oldenburg, Germany).
 
-The German documentation is available in *doc_de*.
+The German documentation is available in *doc_de* as [outline.pdf](https://github.com/bastibe/QtWorkshop/raw/master/doc_de/outline.pdf).
 
 - __CounterPlugin__
   is a QML plugin that contains a C++ class that implements a counter, with a property containing the current value and a slot that increments that value.
